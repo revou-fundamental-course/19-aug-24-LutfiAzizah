@@ -198,6 +198,7 @@ button.next-slide {
     align-items: center;
     padding: 0 10%;
     gap: 20px;
+    max-width: 100%;
 }
 
 .image-container img {
