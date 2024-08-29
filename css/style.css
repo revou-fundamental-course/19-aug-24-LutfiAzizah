@@ -12,6 +12,7 @@ header {
     color: white;
     padding: none;
     text-align:center;
+    max-width: 100%;
 }
 
 .logo img {
@@ -67,7 +68,7 @@ nav {
 
 .slider-container {
     display: flex;
-    transition: transform 0,7s ease-in-out;
+    transition: transform 0,5s ease-in-out;
 }
 
 .slide {
