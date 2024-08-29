@@ -82,7 +82,7 @@ nav {
 }
 
 .slide img{
-    max-width: 1200px;
+    max-width: 100%;
     border-radius: 5px;
 }
 
@@ -140,6 +140,7 @@ button.next-slide {
 }
 
 /*kesukaan*/
+
 .kesukaan {
     background-color:#6e7a8f;
     padding: 10px;
@@ -166,9 +167,9 @@ button.next-slide {
 }
 
 /*University*/
-.about my university {
-    background-color: #0d53cb;
-    padding: 50px;
+.aboutmy  {
+    background-color:#3d4451;
+    padding: 20px;
     text-align: center;
 }
 
@@ -199,8 +200,8 @@ button.next-slide {
 }
 
 .image-container img {
-    max-width: 400px;
-    border-radius: 20px;  
+    max-width: 100%;
+    border-radius: none;  
 }
 
 .text {
